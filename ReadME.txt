@@ -1,1 +1,1 @@
-This is testing git works as it should.
+Made changes to git setup
